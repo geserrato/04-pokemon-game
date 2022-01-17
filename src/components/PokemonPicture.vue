@@ -3,9 +3,9 @@
     <img class="hidden-pokemon"
          :src="imgSrc"
          alt="pokemon">
-        <img v-if="showPokemon" class="fade-in"
-             :src="imgSrc"
-             alt="pokemon">
+    <img v-if="showPokemon" class="fade-in"
+         :src="imgSrc"
+         alt="pokemon">
   </div>
 </template>
 
