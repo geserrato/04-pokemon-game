@@ -1,5 +1,5 @@
 <template>
-  <PokemonPage />
+  <PokemonPage/>
 </template>
 
 <script lang="ts">
